@@ -1,0 +1,58 @@
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
+../.AndroidStudio/
+../.AndroidStudio1.2
+../.gradle
+.m2
+.nbi
+.netbeans-derby
+.oracle_jre_usage
+.ssh
+.vagrant.d
+.VirtualBox
+Amor
+AndroidStudioProjects
+Apllication Data
+Área de Trabalho
+aulagit
+Contatos
+DCIM
+Documentos
+Downloads
+Favoritos
+GlassFish_Server
+Imagens
+Jogos Salvos
+Links
+Músicas
+OneDrive
+Pesquisas
+snap
+teste
+trabalho
+Tracing
+Vídeos
+VirtualBox VMs
+Whatsapp
+workspace
+.bash_history
+.viminfo
+.AddressBook.rar
+alg num perfeito.txt
+Algoritmo Jogo da Velha.txt
+composer.phar
+Dist. Portugol.txt
+edb_psqlodbc.exe
+GeradorSenha.class
+GeradorSenha.java
+hsqlprefs.dat
+Install-Package
+Media.txt
+NETSTAT
+NumberPerfect.txt
+postgresql_90.exe
+Senha.java
+teste.txt

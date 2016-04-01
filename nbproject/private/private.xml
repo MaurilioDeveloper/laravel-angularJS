@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp/www/PlanoDeAcao/app/Presenters/ProjectPresenter.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/app/Http/Kernel.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/database/factories/ModelFactory.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/app/Validators/ClientValidator.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/app/Models/ProjectFile.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/app/Http/Controllers/ProjectNoteController.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/app/Models/User.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/app/Models/Client.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/app/Transformers/ProjectTransformer.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/app/Repositories/ProjectNoteRepositoryEloquent.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/app/Http/Controllers/ProjectController.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/config/repository.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/app/Models/Project.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/app/Repositories/ProjectRepositoryEloquent.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/app/Http/Controllers/ProjectFileController.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/app/Validators/ProjectValidator.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/app/Http/Middleware/CheckProjectOwner.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/config/app.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/database/seeds/UserTableSeeder.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/config/filesystems.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/app/Http/Controllers/ClientController.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/database/seeds/ProjectNoteSeeder.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/app/Repositories/ProjectNoteRepository.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/app/Repositories/ProjectRepository.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/app/Http/routes.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/app/Validators/ProjectNoteValidator.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/app/Providers/AppServiceProvider.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/config/oauth2.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/database/seeds/DatabaseSeeder.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/database/migrations/2016_03_23_123809_create_table_project_members.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/app/Repositories/ClientRepository.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/app/Services/ProjectService.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/app/Models/ProjectNote.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/database/migrations/2016_03_15_183439_create_project_notes_table.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/composer.json</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/database/migrations/2016_03_15_172345_create_project_tables.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/app/Services/ProjectNoteService.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/app/Providers/AppRepositoryProvider.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/app/Http/Controllers/Controller.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/database/seeds/ProjectTableSeeder.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/database/seeds/ClientSeeder.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/app/Models/ProjectMember.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/app/Repositories/ClientRepositoryEloquent.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/app/OAuth/PasswordGrantVerifier.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/app/Transformers/ProjectMemberTransformer.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/database/migrations/2016_03_23_171350_create_table_project_files.php</file>
+            <file>file:/C:/wamp/www/PlanoDeAcao/app/Services/ClientServices.php</file>
+        </group>
+    </open-files>
+</project-private>
